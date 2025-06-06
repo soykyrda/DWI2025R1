@@ -1,0 +1,11 @@
+Indicaciones:
+Realizar la siguiente practica, todo en consola.
+Una vez clonado el proyecto
+CREAR 3 archivos con iniciales por ejemplo AAP001.TXT
+CON 3 LINEAS CADA UNO
+AGREGARLAS AL REPOSITORIO LOCAL
+ELIMINAR 1 ARCHIVO
+Y MODIFICAR LOS OTROS
+AGREGAR AL REPOSITORIO LOCAL
+SUBIR TODO AL REMOTO
+Y RESOLVER UN CONFLICTO
